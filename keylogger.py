@@ -12,5 +12,5 @@ def on_press(key):
 
 l = Listener(on_press=on_press)
 l.start()
-l.join()\
+l.join()
     
